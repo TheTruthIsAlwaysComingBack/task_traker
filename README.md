@@ -80,7 +80,7 @@ Feel free to submit issues and pull requests.
 
 ## Project URL
 
-https://github.com/TheTruthIsAlwaysComingBack/task_traker
+https://roadmap.sh/projects/task-tracker
 
 ## License
 
