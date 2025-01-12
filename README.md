@@ -78,6 +78,10 @@ Tasks are stored in a JSON file with the following structure:
 
 Feel free to submit issues and pull requests.
 
+## Project URL
+
+https://github.com/TheTruthIsAlwaysComingBack/task_traker
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
